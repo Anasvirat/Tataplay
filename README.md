@@ -1,6 +1,6 @@
 # 📺 Self-Host TataPlay on Android or PC (KSWEB / XAMPP)
 
-This guide helps you run the [tataplay](https://github.com/drmlive/tataplay) project on your **Android** device using **KSWEB**, or on your **PC** using **XAMPP** (a cross-platform PHP development environment).
+This guide helps you run the [tataplay](https://github.com/Anasvirat/Tataplay) project on your **Android** device using **KSWEB**, or on your **PC** using **XAMPP** (a cross-platform PHP development environment).
 
 ---
 
